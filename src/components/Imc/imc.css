@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+  margin: 100px auto;
+  width: 600px;
+  max-width: 100%;
+}
+
+input {
+  margin-left: 4px;
+}
