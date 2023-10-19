@@ -1,4 +1,4 @@
-import Imc from "./components/imc";
+import Imc from "./components/Imc";
 
 function App() {
   return <Imc />;
